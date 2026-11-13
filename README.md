@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/banners/bench-light.png" width="100%" alt="theoros-bench">
 </picture>
 
-<p><a href="LICENSE"><img src="https://img.shields.io/badge/license-Apache--2.0-2FD39A?style=flat-square&labelColor=11151C" alt="license: Apache-2.0"></a> <img src="https://img.shields.io/badge/status-protocol%20draft-8B929D?style=flat-square&labelColor=11151C" alt="status: protocol draft"> <a href="https://github.com/theoros-space"><img src="https://img.shields.io/badge/part-05%20of%2006-3E7BFA?style=flat-square&labelColor=11151C" alt="part: 05 of 06"></a></p>
+<p><a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/license-apache-2-0-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/license-apache-2-0-light.png" height="31" alt="license: Apache-2.0"></picture></a> <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/status-protocol-draft-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/status-protocol-draft-light.png" height="31" alt="status: protocol draft"></picture> <a href="https://github.com/theoros-space"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/part-05-of-06-dark.png"><img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/github/badges/part-05-of-06-light.png" height="31" alt="part: 05 of 06"></picture></a></p>
 
 > [!NOTE]
 > **Status:** Protocol draft. Evaluation code lands here from December 2026. Comments on the protocol are welcome in issues.
@@ -67,8 +67,8 @@ before commercial use.
 
 <p align="center">
   <a href="https://github.com/theoros-space"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-paper.svg">
-    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-ink.svg" width="28" alt="Theoros">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-signal.svg">
+    <img src="https://raw.githubusercontent.com/theoros-space/theoros-brand/main/logo/svg/mark-signal.svg" width="28" alt="Theoros">
   </picture></a>
   <br>
   <sub>Theoros &nbsp;·&nbsp; Onboard AI for Earth observation &nbsp;·&nbsp; Baku and Helsinki &nbsp;·&nbsp; <a href="https://theoros.space">theoros.space</a></sub>
